@@ -35,7 +35,7 @@ O objetivo deste projeto é prever se o preço de fechamento de um ativo finance
 
 2. **Instale as dependências**:
    ``` bash
-   pip install -r requirements.txt
+   pip install -r Python Pandas, NumPy, Matplotlib, Keras, TensorFlow, Joblib
    ```
 
 3. **Execute o script**:
