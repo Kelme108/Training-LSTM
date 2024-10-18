@@ -29,7 +29,7 @@ O objetivo deste projeto é prever se o preço de fechamento de um ativo finance
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/Kelme108/Training-LSTM.git
    cd seurepositorio
    ```
 
