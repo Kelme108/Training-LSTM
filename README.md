@@ -63,4 +63,4 @@ O projeto utiliza um arquivo CSV (WDO_candles_07.csv) com a seguinte estrutura:
 
 O modelo é avaliado usando métricas como Erro Absoluto Médio (MAE) e Erro Quadrático Médio (MSE). As previsões são plotadas em comparação com os valores reais para visualizar a precisão do modelo.
 
-![Previsões vs Valores Reais](previsao_vs_reais.png)
+![Previsões vs Valores Reais](/previsao_vs_reais.png)
